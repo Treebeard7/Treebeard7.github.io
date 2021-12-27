@@ -1,47 +1,57 @@
-- name: Project 1
+- name: Raspberry Pi in the Sky 
   id: project1
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    Worked with Matthew Tan to build a self-stabalizing RC plane built from scratch using Raspberry Pi's, RFD900 radios, a 
+    BNO05 IMU, and much more fun stuff! This was our final project for CS 107E.
+    
   date: true
-  link: https://example.com
-  image:  http://placehold.it/100x100
+  link: post/2020/10/28/Dumbarton-Style-Guide.html
+  image: assets/img/photos/plane.JPG
   tech: 
-    - python
+    - C
+    - C++
+    - Embedded systems
+    - Raspberry Pi
 
 
-- name: Project 2
+- name: Inglacial – A Post-Synchronizing Processing Chain for Bistatic Ice-Penetrating Radar
   id: project2
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   
+    I worked with graduate student Nicole Bienert in the <a href="https://radioglaciology.com" class="highlighted">Radio-glaciology Lab</a> at Stanford
+    to build, test, and use a novel signal processing chain for synchronizing bistatic radar used to study ice-sheets. 
   date: true
   link: https://example.com
-  image: http://placehold.it/100x100
+  image: assets/img/photos/inglacial.JPG
   tech: 
-    - c++
+    - MATLAB 
+    - Signal Processing
+    - Link budgets
 
-- name: Project 3
+- name: Employment of Catalytic Analysis and Computational Modeling in the Development of a Novel Competitive Inhibitor of Cdc14 Phosphatases in C. zeina
   id: project3
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   
+    I researched the enzyematic properties of CzCdc14 (a protein in a fungus that ruins crops) to develop an in silico small-molecular 
+    inhibitor to it that may serve as the foundation for a future fungicide. Research was conducted at UCSD as part of the Summer Science Program.
   date: true
   link: https://example.com
-  image:  http://placehold.it/100x100
+  image:  assets/img/photos/protein.JPG
   tech: 
-    - Java
-    - Maven
-    - Jenkins
+    - Molecular Operating Environment
+    - Protein Amplification and Purification
+    - Assays
+    - Michaelson-Menten Kinematics
 
-- name: Project 4
+- name: DPN Smart Insole – A Preventative Solution to the Formation of Diabetic Foot Ulcers
   id: project4
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 0
+    I designed and built a novel orthosis with an embedded sensor array to measure and correct dangerous foot positions in 
+    diabetic polyneuropathy (DPN) patients. 
   date: true
   link: https://example.com
-  image: http://placehold.it/100x100
+  image: assets/img/photos/insole.JPG
   tech: 
-    - Sonarcube
+    - C++
     - Java
+    - IoT
+    - Arduino
+    - Force-sensitive resistors

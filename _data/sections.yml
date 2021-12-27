@@ -1,5 +1,5 @@
 - name: Publications
-  id: publications
+  id: presentations
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   url: publications.html
   first: true
@@ -10,16 +10,9 @@
   content: 
   first: false
 
-- name: Teaching
-  id: teaching
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  content: 
-  url: teaching.html
-  first: false
-
 - name: Projects
   id: projects
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Here's some cool stuff I've made!
   content: 
   url: projects.html
   first: false

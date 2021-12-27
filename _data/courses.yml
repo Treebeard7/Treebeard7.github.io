@@ -1,17 +1,21 @@
-- Course: POL 554 International Security Studies
-  Program: School of Public and International Affairs  
-  School: Harvard
-  id: POL554
-  description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  link: https://example.com
+- Course: MATH 51 Linear Algebra and Multivariable Calculus
 
-- Course: POL 585 International Political Economy
-  Program: School of Public and International Affairs
-  School: Harvard
-  id: POL585
-  description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.   
-  link: https://example.com
+- Course: MATH 52 Integral Calculus of Several Variables
+
+- Course: MATH 53 Ordinary Differential Equations
+
+- Course: CS 106B Programming Abstractions in C++
+
+- Course: CS 107E Computer Systems from the Ground Up
+
+- Course: CS 109 Probability for Computer Scientists
+
+- Course: PHYSICS 61 Mechanics and Special Relativity
+
+- Course: PHYSICS 63 Electricity, Magnetism, and Waves
+
+- Course: GEOPHYSICS 54N The Space Mission to Europa
+
+- Course: HISTORY 116 Traders and Crusaders in the Medieval Mediterranean
+
+- Course: HISTORY 15D Europe in the Middle Ages
