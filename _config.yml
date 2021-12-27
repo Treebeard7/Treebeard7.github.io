@@ -8,7 +8,7 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: Dumbarton 
+title: Rohan Sanda 
 email: 
 description: a minimalistic jekyll theme for academics
 baseurl:                                       # the subpath of your site, e.g. /blog
@@ -19,15 +19,14 @@ image_alt: A minimalistic jekyll theme for academic    # image description
 # =======================================#
 # -----------SITE SETTINGS---------------#
 #========================================#: 
-author: John Doe 
+author: Rohan Sanda 
 profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
 occupation: 
 snippet:
 twitter: tbutler0x90
-github: tcbutler320
-linkedin: tyler-b-a700a1aa
-stackoverflow: '12935605'
-website: https://tbutler.org
+github: Treebeard7
+linkedin: rohansanda
+website: 
 codepen: 
 medium: 
 email: developer.tbutler@gmail.com
@@ -116,7 +115,7 @@ exclude:
 # -----JEKYLL SCHOLAR SETTINGS-----------#
 #========================================#
 scholar:
-  last_name: Dumbarton
+  last_name: Sanda
   style: apa
   locale: en
   source: /_bibliography/
