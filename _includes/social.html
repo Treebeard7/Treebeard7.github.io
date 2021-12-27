@@ -44,5 +44,11 @@
             <i class="fab fa-keybase"></i></a>
         </span>
     {% endif %} 
+    {% if site.email %}
+    <a href="mailto: {{ site.email }}">
+    <span style="color: {{ theme.social-color }};">
+        <i class="fas fa-envelope fa-lg"></i></a>
+    </span>
+{% endif %}
     <i> &nbsp;&nbsp; </i>
 </span>

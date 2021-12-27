@@ -1,12 +1,12 @@
-- name: Publications
+- name: Publications and Presentations
   id: presentations
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: This page is under development!
   url: publications.html
   first: true
   
 - name: Coursework
   id: courses
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Classes I have/am taking.
   content: 
   first: false
 

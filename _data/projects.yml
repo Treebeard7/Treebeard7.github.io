@@ -5,8 +5,9 @@
     BNO05 IMU, and much more fun stuff! This was our final project for CS 107E.
     
   date: true
-  link: post/2020/10/28/Dumbarton-Style-Guide.html
+  link: _posts/2020-10-26-Lorem-Ipsum.html
   image: assets/img/photos/plane.JPG
+
   tech: 
     - C
     - C++
@@ -20,7 +21,7 @@
     I worked with graduate student Nicole Bienert in the <a href="https://radioglaciology.com" class="highlighted">Radio-glaciology Lab</a> at Stanford
     to build, test, and use a novel signal processing chain for synchronizing bistatic radar used to study ice-sheets. 
   date: true
-  link: https://example.com
+  link: https://github.com/bienert/Bistatic_Radar_Public/tree/main/Processing_Scripts/Full_Processing
   image: assets/img/photos/inglacial.JPG
   tech: 
     - MATLAB 
@@ -33,7 +34,7 @@
     I researched the enzyematic properties of CzCdc14 (a protein in a fungus that ruins crops) to develop an in silico small-molecular 
     inhibitor to it that may serve as the foundation for a future fungicide. Research was conducted at UCSD as part of the Summer Science Program.
   date: true
-  link: https://example.com
+  link:   assets/pdf/ssp.pdf
   image:  assets/img/photos/protein.JPG
   tech: 
     - Molecular Operating Environment
@@ -47,7 +48,7 @@
     I designed and built a novel orthosis with an embedded sensor array to measure and correct dangerous foot positions in 
     diabetic polyneuropathy (DPN) patients. 
   date: true
-  link: https://example.com
+  link:  assets/pdf/insole.pdf
   image: assets/img/photos/insole.JPG
   tech: 
     - C++
