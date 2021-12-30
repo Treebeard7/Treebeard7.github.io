@@ -1,15 +1,22 @@
-- name: Coursework
-  id: courses
-  description: Classes I have/am taking.
-  content: 
-  first: false
-
 - name: Projects
   id: projects
   description: Here's some cool stuff I've made!
   content: 
   url: projects.html
   first: false
+
+- name: Coursework
+  id: courses
+  description: Classes I have/am taking.
+  content: 
+  first: false
+
+# - name: Projects
+#   id: projects
+#   description: Here's some cool stuff I've made!
+#   content: 
+#   url: projects.html
+#   first: false
 
  # - name: Publications and Presentations
  # id: presentations
