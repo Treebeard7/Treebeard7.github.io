@@ -102,7 +102,7 @@ plugins:
   # - jekyll-titles-from-headings
   # - jekyll-remote-theme
   - jekyll-feed
-#  - jekyll-scholar
+  - jekyll/scholar
   - jekyll-environment-variables
 sass:
   sass_dir: _sass
