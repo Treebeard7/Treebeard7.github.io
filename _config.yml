@@ -89,8 +89,20 @@ kramdown:
   syntax_highlighter: rouge
 
 plugins:
+  # - jekyll-seo-tag
+  # - jekyll-github-metadata
+  # - jekyll-coffeescript
+  # - jekyll-commonmark-ghpages
+  # - jekyll-gist
+  # - jekyll-paginate
+  # - jekyll-relative-links
+  # - jekyll-optional-front-matter
+  # - jekyll-readme-index
+  # - jekyll-default-layout
+  # - jekyll-titles-from-headings
+  # - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-scholar
+#  - jekyll-scholar
   - jekyll-environment-variables
 sass:
   sass_dir: _sass
@@ -115,19 +127,19 @@ exclude:
 # =======================================#
 # -----JEKYLL SCHOLAR SETTINGS-----------#
 #========================================#
-scholar:
-  last_name: Sanda
-  style: apa
-  locale: en
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-  replace_strings: true
-  join_strings: true
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: 
-  query: "@*"
+# scholar:
+#   last_name: Sanda
+#   style: apa
+#   locale: en
+#   source: /_bibliography/
+#   bibliography: papers.bib
+#   bibliography_template: bib
+#   replace_strings: true
+#   join_strings: true
+#   details_dir: bibliography
+#   details_layout: bibtex.html
+#   details_link: 
+#   query: "@*"
 
 # =======================================#
 # ------------CDN SETTINGS---------------#
