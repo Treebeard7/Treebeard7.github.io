@@ -74,22 +74,38 @@ layout: default
       <div class="tab-content mt-3">
         {% for section in site.data.sections %}
           {% if section.first %}
-            {% if section.name == "Publications and Presentations" %}
-              <div class="tab-pane active overflow-auto" id="{{section.id}}" role="tabpanel">
-                <p><i>{{section.description}}</i></p>
-                <p class="card-text">% bibliography -f papers %}</p>
-              </div>
+            {% if section.name == "Presentations and Publications" %}
+
+            <div class="tab-pane active overflow-auto" id="{{section.id}}" role="tabpanel">
+              <p><i>{{section.description}}</i></p>
+              <ol>
+                <li>
+                  [Poster] <b>Informing Bistatic Radar Experiments at Thwaites Glacier Using Bistatic Data from Greenland and West Antarctica</b><br>
+                   <i>Sanda, R.</i>, Schroeder, D., Bienert, N., Dawson, E., Young, T., Summers, P., and Tulaczyk, T. <br>
+                   <i>American Geophysical Union</i> 2021 <br>
+                   <a href=assets/pdf/agu.pdf>
+                    <span>
+                        <i class="fas fa-file-pdf"></i></a>
+                    </span> 
+                    <a href="https://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=gallery">
+                      <span>
+                          <i class="fas fa-square-up-right"></i></a>
+                      </span><br>
+                </li>
+                <li>
+                  <b>Post-Processing Synchronized Bistatic Radar for Long Offset Glacier Sounding</b> <br>
+                  Bienert, N., Schroeder, D., Peters, S., MacKie, E., Dawson, E., Siegfried, M., <i>Sanda, R.</i>, and Christoffersen, P. <br>
+                  <i>Under review in IEEE Transactions on Geoscience and Remote Sensing</i>
+                </li>
+              </ol>
+            </div>
             {% else %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel">
                 <p class="card-text">{{section.description}}</p>
               </div>
             {% endif %}
           {% else %}  
-            {% if section.name == "Presentations" %}
-              <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
-                <p><i>{{section.description}}</i></p>
-              </div>
-            {% elsif section.name == "Projects" %}
+            {% if section.name == "Projects" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
                   {% for projects in site.data.projects %}
@@ -126,15 +142,15 @@ layout: default
                     </div>
                     {% endfor %}
               </div>
-            {% elsif section.name == "Coursework" %}
+              {% elsif section.name == "Coursework" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
                 <div class="list-group">
                 {% for courses in site.data.courses %}
                   <button type="button" class="list-group-item text-left">{{ courses.Course }}</button>
                 {% endfor %}
-                </div>
               </div>
+            </div>  
             {% else %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <h5 class="card-title text-center"><a href="/{{ section.url }}" class="highlighted">{{section.description}}</a></h5>

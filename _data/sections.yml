@@ -1,14 +1,21 @@
-- name: Projects
-  id: projects
-  description: Here's some cool stuff I've made!
+- name: Presentations and Publications
+  id: pres-pubs
+  description: Academic publications and publications
+  abcd: asdfasfsf
   content: 
-  url: projects.html
-  first: false
+  first: true
 
 - name: Coursework
   id: courses
   description: Classes I have/am taking.
   content: 
+  first: false
+
+- name: Projects
+  id: projects
+  description: Here's some cool stuff I've made!
+  content: 
+  url: projects.html
   first: false
 
 # - name: Projects
