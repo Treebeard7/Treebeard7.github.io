@@ -5,7 +5,7 @@
     BNO05 IMU, and much more fun stuff! This was our final project for CS 107E.
     
   date: true
-  link: _posts/2020-10-26-Lorem-Ipsum.html
+  link: https://github.com/Treebeard7/pi-in-the-sky #_posts/2020-10-26-Lorem-Ipsum.html
   image: assets/img/photos/plane.JPG
 
   tech: 
