@@ -13,8 +13,8 @@ email: rsanda@stanford.edu
 description: Personal portfolio website for Rohan Sanda
 baseurl: '' #rohan-portfolio                                     # the subpath of your site, e.g. /blog
 url: https://treebeard7.github.io # "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
-image: /assets/img/dumbarton.png               # used to generate site link preview
-image_alt: A minimalistic jekyll theme for academic    # image description
+image: /assets/img/screenshot.png               # used to generate site link preview
+image_alt:     # image description
 
 # =======================================#
 # -----------SITE SETTINGS---------------#
