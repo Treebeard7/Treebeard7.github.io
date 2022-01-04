@@ -1,8 +1,8 @@
 - name: Raspberry Pi in the Sky 
   id: project1
   description: >
-    Worked with Matthew Tan to build a self-stabalizing RC plane built from scratch using Raspberry Pi's, RFD900 radios, a 
-    BNO05 IMU, and much more fun stuff! This was our final project for CS 107E.
+    Built a self-stabalizing RC plane from scratch using Raspberry Pi's, RFD900 radios, a 
+    BNO05 IMU, and much more fun stuff! This was the final project for CS 107E.
     
   date: true
   link: https://github.com/Treebeard7/pi-in-the-sky #_posts/2020-10-26-Lorem-Ipsum.html
