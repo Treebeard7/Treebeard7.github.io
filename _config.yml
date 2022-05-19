@@ -12,7 +12,7 @@ title: Rohan Sanda
 email: rsanda@stanford.edu 
 description: 
 baseurl: '' #rohan-portfolio                                     # the subpath of your site, e.g. /blog
-url: https://treebeard7.github.io # "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rohansanda.github.io # "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/screenshot.png               # used to generate site link preview
 image_alt:     # image description
 
@@ -24,7 +24,7 @@ profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg
 occupation: 
 snippet:
 twitter: 
-github: Treebeard7
+github: rohansanda
 linkedin: rohansanda
 website: 
 codepen: 
