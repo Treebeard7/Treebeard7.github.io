@@ -8,4 +8,4 @@ links:
   url: /assets/pdf/vitae.pdf
 
 - title: Contact
-  url: contact.html
+  url: <a href = "mailto: rsanda@stanford.edu" class="highlighted">email</a> #contact.html
