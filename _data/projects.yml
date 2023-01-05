@@ -1,3 +1,17 @@
+- name: Quantifying a Player's Strategic Passing Ability Using PageRank
+  id: project5
+  description: >
+    Created graph networks representing passes between players on La Liga Teams from the entire 2017-18 season. I
+    then adapted the PageRank algorithm to quantify a player's strategic passing ability, and compared these results
+    to online player rankings. 
+    
+  date: true
+  link: https://github.com/rohansanda/math104_laliga_pagerank #_posts/2020-10-26-Lorem-Ipsum.html
+  image: assets/img/photos/barcelona_network.png
+
+  tech: 
+    - Python
+
 - name: Raspberry Pi in the Sky 
   id: project1
   description: >
