@@ -7,5 +7,5 @@ links:
 - title: Vitae
   url: /assets/pdf/vitae.pdf
 
-- title: <a href = "mailto: rsanda@stanford.edu" class="highlighted">Contact</a> 
-  #url: <a href = "mailto: rsanda@stanford.edu" class="highlighted">email</a> #contact.html
+- title: Contact
+  url: contact.html
