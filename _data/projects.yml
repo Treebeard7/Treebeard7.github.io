@@ -1,3 +1,19 @@
+- name: Efficient Blood Pressure Prediction from Photoplethysmography Signals
+  id: project6
+  description: >
+    As my final project for CS 229, I developed a custom preprocessing and encoding pipeline for raw PPG signals 
+    from the VitalDB dataset. I then evaluated the performance of various machine learning models to predict blood
+    pressure given a single PPG pulse. I achieved results comparable with literature.  
+  date: true
+  link: assets/pdf/cs229.pdf
+  image: assets/img/photos/ppg.png
+  tech:
+    - PyTorch
+    - Scikit-learn
+    - Machine Learning
+    - Signal Processing
+    - Data Visualization
+
 - name: Quantifying a Player's Strategic Passing Ability Using PageRank
   id: project5
   description: >
@@ -11,6 +27,7 @@
 
   tech: 
     - Python
+    - Scikit-learn
 
 - name: Raspberry Pi in the Sky 
   id: project1
@@ -26,7 +43,7 @@
     - C
     - C++
     - Embedded systems
-    - Raspberry Pi
+    - Microcontrollers
 
 
 - name: Inglacial – A Post-Synchronizing Processing Chain for Bistatic Ice-Penetrating Radar
@@ -40,7 +57,6 @@
   tech: 
     - MATLAB 
     - Signal Processing
-    - Link budgets
 
 - name: Employment of Catalytic Analysis and Computational Modeling in the Development of a Novel Competitive Inhibitor of Cdc14 Phosphatases in C. zeina
   id: project3
@@ -50,11 +66,6 @@
   date: true
   link:   assets/pdf/ssp.pdf
   image:  assets/img/photos/protein.JPG
-  tech: 
-    - Molecular Operating Environment
-    - Protein Amplification and Purification
-    - Assays
-    - Michaelson-Menten Kinematics
 
 - name: DPN Smart Insole – A Preventative Solution to the Formation of Diabetic Foot Ulcers
   id: project4
@@ -67,6 +78,4 @@
   tech: 
     - C++
     - Java
-    - IoT
     - Arduino
-    - Force-sensitive resistors
